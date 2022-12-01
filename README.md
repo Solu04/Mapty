@@ -5,7 +5,8 @@
 <p> Mapty is a web application that allows users enter details of their running or cycling exercise habits and the route they followed  </p>
 
 <p> Mapty was the second biggest project on JONAS SCHMEDTMANN COMPLETE JAVASCRIPT
-<a src="https://www.udemy.com/course/the-complete-javascript-course/">Udemy course</a>
+<a href="https://www.udemy.com/course/the-complete-javascript-course/">
+Udemy course</a>
 and we decided to build it to test our knowledge on: </p>
 <ul> 
 <li> Asynchronous Javascript </li>
